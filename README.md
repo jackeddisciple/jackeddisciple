@@ -1,7 +1,7 @@
 Hi! Adarsh this side. 👋🏻
 ===============================================================================================================================
 
-###Backend & AI Infra Developer
+Backend & AI Infra Developer
 ---------------------------
 
 I build frontends, backends, AI infrastructure, whatever the problem needs.
