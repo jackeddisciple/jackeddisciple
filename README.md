@@ -1,7 +1,4 @@
-Hi! Adarsh this side. 👋🏻
-===============================================================================================================================
-
-Backend & AI Infra Developer
+Hi! Adarsh this side.
 ---------------------------
 
 I build frontends, backends, AI infrastructure, whatever the problem needs.
@@ -13,7 +10,6 @@ Always down to talk systems, trade ideas, or just geek out over something intere
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [adarshhchoudhary1@gmail.com](mailto:adarshhchoudhary1@gmail.com)
-* 👥  I'm looking to collaborate on AI infrastructure, full stack systems, developer tools, distributed systems, and open-source infrastructure.
 * 💬  Currently building a distributed execution runtime for AI agents from durable state, crash recovery, fair multi-tenant scheduling, to per step cost enforcement.
 
 ### Cracked for
